@@ -1,0 +1,4 @@
+READ.md
+__pycache__/
+*.pyc
+blog/
